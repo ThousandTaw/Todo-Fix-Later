@@ -1,0 +1,10 @@
+SOLACE WITH LOCAL LLAMA 3.2
+
+1. Open Ollama from the Windows Start menu.
+2. Run ollama list. If llama3.2 is missing, run ollama pull llama3.2.
+3. Extract the ZIP and open its Solace-Windows folder.
+4. Double-click run.bat and open Companion.
+
+Python 3.11+ is required. Initial dependency/model downloads need internet.
+Your existing local account remains available.
+See README.md for VS Code steps and troubleshooting.

@@ -1,0 +1,162 @@
+{
+  "Low": [
+    {
+      "name": "Make room for a small win",
+      "time": "3 minutes",
+      "desc": "Pick one gentle action you can manage right now.",
+      "steps": [
+        "Choose a small action: drink water, open a curtain, or tidy one item.",
+        "Do only that one thing. There’s no need to do more.",
+        "Notice how it felt to show up for yourself."
+      ]
+    },
+    {
+      "name": "Make a kinder sentence",
+      "time": "2 minutes",
+      "desc": "Give yourself a little less pressure.",
+      "steps": [
+        "Notice one difficult thought without judging it.",
+        "Write what you would say to a friend feeling this way.",
+        "Keep one kind sentence for yourself."
+      ]
+    },
+    {
+      "name": "A comfortable corner",
+      "time": "3 minutes",
+      "desc": "Change one small thing around you.",
+      "steps": [
+        "Choose a place where you feel comfortable.",
+        "Adjust one thing: light, sound, or where you sit.",
+        "Notice whether this feels supportive. It’s okay if it doesn’t."
+      ]
+    }
+  ],
+  "Anxious": [
+    {
+      "name": "Notice your surroundings",
+      "time": "3 minutes",
+      "desc": "Bring your attention to the space around you, at your own pace.",
+      "steps": [
+        "Name three things you can see.",
+        "Notice two sounds around you.",
+        "Feel one point of contact, like your feet on the floor."
+      ]
+    },
+    {
+      "name": "Sort what is in your hands",
+      "time": "3 minutes",
+      "desc": "Give your thoughts a little structure.",
+      "steps": [
+        "Name one thing that is on your mind.",
+        "Notice one part you can influence and one you cannot.",
+        "Choose a tiny action, or permission to pause."
+      ]
+    },
+    {
+      "name": "Pause the rush",
+      "time": "2 minutes",
+      "desc": "Let this moment move at your pace.",
+      "steps": [
+        "Put aside one non-urgent task for a moment.",
+        "Notice the support of your chair or the floor.",
+        "Decide what you want to return to first."
+      ]
+    }
+  ],
+  "Okay": [
+    {
+      "name": "A moment just for you",
+      "time": "2 minutes",
+      "desc": "Pause and notice what you need from the rest of your day.",
+      "steps": [
+        "Take a comfortable seat and let your shoulders settle.",
+        "Name one thing that would make today a little easier.",
+        "Choose one small way to give yourself that support."
+      ]
+    },
+    {
+      "name": "Name one need",
+      "time": "2 minutes",
+      "desc": "Listen to what would support you today.",
+      "steps": [
+        "Choose a word: rest, space, connection, or something else.",
+        "Think of one small action that fits that need.",
+        "Try it, or write down when you want to try."
+      ]
+    },
+    {
+      "name": "Notice something new",
+      "time": "3 minutes",
+      "desc": "Find a small detail in an ordinary moment.",
+      "steps": [
+        "Look around a familiar space.",
+        "Notice one detail you usually overlook.",
+        "Write one word or sentence about it."
+      ]
+    }
+  ],
+  "Good": [
+    {
+      "name": "Save something good",
+      "time": "2 minutes",
+      "desc": "Make a little space for something that’s going well.",
+      "steps": [
+        "Name a moment from today that felt good.",
+        "Notice what made it meaningful to you.",
+        "Write one sentence so you can remember it."
+      ]
+    },
+    {
+      "name": "Keep a good moment",
+      "time": "2 minutes",
+      "desc": "Save a small memory from today.",
+      "steps": [
+        "Pick something that made you smile.",
+        "Name why it mattered to you.",
+        "Write a sentence you can revisit."
+      ]
+    },
+    {
+      "name": "Make time for what you enjoy",
+      "time": "3 minutes",
+      "desc": "Give a little attention to an interest.",
+      "steps": [
+        "Pick an interest you enjoy.",
+        "Spend a few minutes with it, or plan a time.",
+        "Notice what you enjoyed about that choice."
+      ]
+    }
+  ],
+  "Great": [
+    {
+      "name": "Let the good feeling ripple",
+      "time": "3 minutes",
+      "desc": "Choose a way to carry this feeling into the rest of your day.",
+      "steps": [
+        "Think of one thing you’re grateful for today.",
+        "Choose an activity you enjoy, even for a few minutes.",
+        "If you want, think of someone you’d like to share it with."
+      ]
+    },
+    {
+      "name": "Appreciate a connection",
+      "time": "2 minutes",
+      "desc": "Reflect on someone who adds something to your life.",
+      "steps": [
+        "Think of someone you appreciate.",
+        "Name one quality or moment you value.",
+        "Save a note, or decide whether you want to thank them later."
+      ]
+    },
+    {
+      "name": "A note to future you",
+      "time": "3 minutes",
+      "desc": "Carry a little of today into another day.",
+      "steps": [
+        "Name what feels good today.",
+        "Write one thing you want to remember.",
+        "Keep a supportive sentence for your future self."
+      ]
+    }
+  ]
+}
